@@ -11,7 +11,7 @@ export const Button = styled.button`
   font-family: inherit;
   font-size: 1.3rem;
   font-weight: 500;
-  margin: 4rem 0 2rem;
+  margin: 1rem 0 1rem;
   padding: 1rem 2rem;
   text-transform: uppercase;
   transition: 0.2s background-color ease;

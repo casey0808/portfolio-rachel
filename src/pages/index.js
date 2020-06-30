@@ -4,7 +4,7 @@ import Layout from 'components/layout';
 import Box from 'components/box';
 import Title from 'components/title';
 import Gallery from 'components/gallery';
-import IOExample from 'components/io-example';
+// import IOExample from 'components/io-example';
 // import Modal from 'containers/modal';
 import { graphql } from 'gatsby';
 
@@ -26,7 +26,7 @@ const Index = ({ data }) => (
     </Box>
     <Gallery items={data.homeJson.gallery} />
     <div style={{ height: '50vh' }} />
-    <IOExample />
+    {/* <IOExample /> */}
   </Layout>
 );
 
@@ -56,6 +56,7 @@ export const query = graphql`
             }
           }
         }
+        description
       }
     }
   }

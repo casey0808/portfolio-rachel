@@ -2,18 +2,21 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+    "title": "Project 1",
+    "copy": "short intro 1",
+    "image": "../images/gallery/react-context.jpg",
+    "description": "Occaecat laborum elit incididunt fugiat do commodo sint culpa aliqua deserunt."
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "title": "Project 2",
+    "copy": "short intro 2",
+    "image": "../images/gallery/page-transitions.jpg",
+    "description": "Voluptate aliquip duis enim laboris pariatur nostrud."
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "title": "Project 3",
+    "copy": "short intro 3",
+    "image": "../images/gallery/intersection-observer.jpg",
+    "description": "Eu ullamco dolore laboris enim pariatur cillum id minim nostrud laboris velit."
   }]
 }
