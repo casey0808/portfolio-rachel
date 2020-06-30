@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Aliquip incididunt excepteur commodo sit veniam veniam ullamco occaecat velit. Excepteur tempor et tempor sunt quis qui ullamco sunt. Reprehenderit Lorem id amet dolor ad nulla minim dolore irure magna.
